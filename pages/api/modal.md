@@ -54,5 +54,4 @@ The properties of the [Portal](/api/portal) component are also available.
 
 ## Demos
 
-- [Modals](/utils/modals/modals)
-
+- [Modals](/utils/modals)
